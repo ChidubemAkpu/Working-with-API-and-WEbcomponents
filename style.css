@@ -1,0 +1,8 @@
+body{
+    background: green;
+    color: white;
+}
+select{
+    width: 400px;
+    height: 50px;
+}
